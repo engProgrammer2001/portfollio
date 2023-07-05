@@ -44,7 +44,8 @@ nav{
     transition: 0.7s;
 }
 .text{
-    color: whitesmoke;  
+/*     color: whitesmoke;   */
+    font-weight:bold;
     margin-top: 150px;
     margin-left: 120px;
     max-width: 550px;
