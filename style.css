@@ -31,7 +31,6 @@ nav{
     margin-right: 40px;
 }
 .menu a{
-    color: whitesmoke;
     font-size: 21px;
     font-weight: bold;
     text-decoration: none;
@@ -44,7 +43,6 @@ nav{
     transition: 0.7s;
 }
 .text{
-/*     color: whitesmoke;   */
     font-weight:bold;
     margin-top: 150px;
     margin-left: 120px;
