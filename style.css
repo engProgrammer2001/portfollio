@@ -6,7 +6,7 @@
 header{
     width: 100%;
     height: 100vh;
-    background: url('/ashok2.png'),url('/bg1.jpeg');
+    background: url('ashok2.png'),url('bg1.jpeg');
     background-size:50% 100%, cover;
     background-position: right, center;
     background-repeat: no-repeat, no-repeat;
