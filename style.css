@@ -130,7 +130,7 @@ nav{
 /* This is skills section */
 #skills{
     padding: 100px 50px;
-    background: url('/bg2.jpg');
+    background: url('bg2.jpg');
     background-size: cover;
     background-position: center;
     color: whitesmoke;
